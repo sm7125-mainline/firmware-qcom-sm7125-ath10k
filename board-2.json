@@ -1,6 +1,10 @@
 [
 	{
+		"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=150,variant=samsung_a52q"],
+		"data": "bdwlan-a52q-a72q.bin"
+	},
+	{
 		"names": ["bus=snoc,qmi-board-id=ff,qmi-chip-id=150,variant=samsung_a72q"],
-		"data": "bdwlan-a72q.bin"
+		"data": "bdwlan-a52q-a72q.bin"
 	}
 ]
